@@ -1,0 +1,1 @@
+<?php class DATABASE_CONFIG {public $default = array("datasource" => "Mongodb.MongodbSource","host" => "localhost","database" => "bloodbanks","login" => "","password" => "","port" => 27017,"prefix" => "","persistent" => "true","encoding" => "utf8");}?>
